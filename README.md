@@ -4,6 +4,7 @@
 <img src="./imagens/capa.gif" alt="Aplicação funcionando" width="400px"></img>
 </p>
 
+https://user-images.githubusercontent.com/48692505/171265841-27cd8c97-502f-4a95-829d-be064b60362b.mp4
 
 ## O que é este projeto
 Este projeto é uma página feita com HTML, CSS e Javascript que contém uma série de botões coloridos para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
