@@ -24,9 +24,9 @@ Alternativamente, você também pode utilizar a extensão [Live Server](https://
 Uma vez que a aplicação esteja rodando, você pode clicar nos círculos coloridos que são mostrados na página para alterar a cor de fundo da página. A cor será alterada de acordo com o botão que você pressionar.
 
 ## ⚙️ Tecnologias usadas no projeto
-- HTML
-- CSS
-- Javascript
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
 ## 🗒️ Features do projeto
 - 5 botões com cores diferentes que alteram a cor de fundo da página
@@ -60,4 +60,6 @@ Não temos dependências no projeto.
 - [Leticia2](github.com/lelepg) - contribuinte
 
 ## 🆘 Precisa de ajuda?
-Você pode contatar a Letícia (mantenedora do projeto) em email@legal.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](email.legal@gmail)
+
