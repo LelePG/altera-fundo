@@ -60,6 +60,8 @@ Não temos dependências no projeto.
 - [Leticia2](github.com/lelepg) - contribuinte
 
 ## 🆘 Precisa de ajuda?
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](email.legal@gmail)
+Você pode contatar a Letícia (mantenedora do projeto) em email@legal.com ou entre em contato pelas as redes sociais:
+
+[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](linkedin.com)
 
