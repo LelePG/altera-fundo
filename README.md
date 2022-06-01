@@ -1,4 +1,10 @@
 # Altera Fundo
+![Tamanho do repositório](https://img.shields.io/github/repo-size/lelepg/altera-fundo?color=%23FF00FF&label=Tamanho&style=plastic)
+![Quantidade de linhas do repositório](https://img.shields.io/tokei/lines/github/lelepg/altera-fundo?color=%23FF00FF&label=Total%20de%20linhas&style=plastic)
+![Total de issues](https://img.shields.io/github/issues-raw/lelepg/altera-fundo?style=plastic)
+![Total de pull requests](https://img.shields.io/github/issues-pr/lelepg/altera-fundo?style=plastic)
+![Licensa](https://img.shields.io/github/license/lelepg/altera-fundo?style=plastic)
+
 <p align="center">
 <img src="./imagens/imagem1.png" alt="Tela Inicial" width="400px"></img>
 <img src="./imagens/capa.gif" alt="Aplicação funcionando" height="200px"></img>
