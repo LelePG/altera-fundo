@@ -63,5 +63,5 @@ Não temos dependências no projeto.
 Você pode contatar a Letícia (mantenedora do projeto) em email@legal.com ou entre em contato pelas as redes sociais:
 
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-](linkedin.com)
+](https://br.linkedin.com/)
 
